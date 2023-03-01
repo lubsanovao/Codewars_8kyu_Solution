@@ -17,5 +17,4 @@
 
 String.prototype.isUpperCase = function () {
     return this == this.toUpperCase()
-    return this == this.toUpperCase()
 }
